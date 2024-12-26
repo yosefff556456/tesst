@@ -1,0 +1,964 @@
+{
+  "taxonomy": [
+    {
+      "Kingdom": {
+        "Arabic": "حيوانات",
+        "English": "Animalia"
+      },
+      "Phylum": {
+        "Arabic": "حبليات",
+        "English": "Chordata"
+      },
+      "Class": {
+        "Arabic": "ثدييات",
+        "English": "Mammalia"
+      },
+      "Order": {
+        "Arabic": "لواحم",
+        "English": "Carnivora"
+      },
+      "Family": {
+        "Arabic": "كلبيات",
+        "English": "Canidae"
+      },
+      "Genus": {
+        "Arabic": "كلب",
+        "English": "Canis"
+      },
+      "Species": {
+        "Arabic": "الذئب الرمادي",
+        "English": "Canis lupus",
+        "LocalNames": {
+          "Arabic": [
+            "الذئب الرمادي",
+            "الذئب الأوراسي"
+          ],
+          "English": [
+            "Grey Wolf",
+            "Eurasian Wolf"
+          ],
+          "Regional": [
+            {
+              "Name": "ذئب",
+              "Region": "الشرق الأوسط",
+              "Language": "Arabic"
+            },
+            {
+              "Name": "волк",
+              "Region": "روسيا",
+              "Language": "Russian"
+            }
+          ]
+        },
+        "Description": {
+          "Arabic": "حيوان ثديي مفترس من فصيلة الكلبيات، يعيش ويصطاد في جماعات",
+          "English": "A large canine predator that lives and hunts in packs"
+        },
+        "Habitat": {
+          "Arabic": "الغابات والسهول المفتوحة في أوراسيا وأمريكا الشمالية",
+          "English": "Forests and open plains across Eurasia and North America"
+        },
+        "References": [
+          {
+            "Title": "موسوعة الحياة",
+            "URL": "https://eol.org/pages/328607",
+            "Type": "reference"
+          },
+          {
+            "Title": "صور الذئب الرمادي",
+            "URL": "https://www.nationalgeographic.com/animals/mammals/g/gray-wolf/",
+            "Type": "image"
+          }
+        ],
+        "Media": {
+          "Images": [
+            {
+              "URL": "https://example.com/wolf1.jpg",
+              "Caption": {
+                "Arabic": "ذئب رمادي بالغ",
+                "English": "Adult Grey Wolf"
+              },
+              "Credit": "National Geographic",
+              "License": "CC BY-SA 4.0"
+            }
+          ],
+          "Videos": [
+            {
+              "URL": "https://example.com/wolf-video.mp4",
+              "Caption": {
+                "Arabic": "ذئب يصطاد فريسته",
+                "English": "Wolf hunting its prey"
+              },
+              "Credit": "Wildlife Documentary",
+              "Duration": "00:02:30"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "Kingdom": {
+        "Arabic": "حيوانات",
+        "English": "Animalia"
+      },
+      "Phylum": {
+        "Arabic": "حبليات",
+        "English": "Chordata"
+      },
+      "Class": {
+        "Arabic": "ثدييات",
+        "English": "Mammalia"
+      },
+      "Order": {
+        "Arabic": "لواحم",
+        "English": "Carnivora"
+      },
+      "Family": {
+        "Arabic": "كلبيات",
+        "English": "Canidae"
+      },
+      "Genus": {
+        "Arabic": "كلب",
+        "English": "Canis"
+      },
+      "Species": {
+        "Arabic": "الذئب الرمادي",
+        "English": "Canis lupus",
+        "LocalNames": {
+          "Arabic": [
+            "الذئب الرمادي",
+            "الذئب الأوراسي"
+          ],
+          "English": [
+            "Grey Wolf",
+            "Eurasian Wolf"
+          ],
+          "Regional": [
+            {
+              "Name": "ذئب",
+              "Region": "الشرق الأوسط",
+              "Language": "Arabic"
+            },
+            {
+              "Name": "волк",
+              "Region": "روسيا",
+              "Language": "Russian"
+            }
+          ]
+        },
+        "Description": {
+          "Arabic": "حيوان ثديي مفترس من فصيلة الكلبيات، يعيش ويصطاد في جماعات",
+          "English": "A large canine predator that lives and hunts in packs"
+        },
+        "Habitat": {
+          "Arabic": "الغابات والسهول المفتوحة في أوراسيا وأمريكا الشمالية",
+          "English": "Forests and open plains across Eurasia and North America"
+        },
+        "References": [
+          {
+            "Title": "موسوعة الحياة",
+            "URL": "https://eol.org/pages/328607",
+            "Type": "reference"
+          },
+          {
+            "Title": "صور الذئب الرمادي",
+            "URL": "https://www.nationalgeographic.com/animals/mammals/g/gray-wolf/",
+            "Type": "image"
+          }
+        ],
+        "Media": {
+          "Images": [
+            {
+              "URL": "https://example.com/wolf1.jpg",
+              "Caption": {
+                "Arabic": "ذئب رمادي بالغ",
+                "English": "Adult Grey Wolf"
+              },
+              "Credit": "National Geographic",
+              "License": "CC BY-SA 4.0"
+            }
+          ],
+          "Videos": [
+            {
+              "URL": "https://example.com/wolf-video.mp4",
+              "Caption": {
+                "Arabic": "ذئب يصطاد فريسته",
+                "English": "Wolf hunting its prey"
+              },
+              "Credit": "Wildlife Documentary",
+              "Duration": "00:02:30"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "Kingdom": {
+        "Arabic": "نباتات",
+        "English": "Plantae"
+      },
+      "Phylum": {
+        "Arabic": "نباتات وعائية",
+        "English": "Tracheophyta"
+      },
+      "Class": {
+        "Arabic": "ثنائيات الفلقة",
+        "English": "Magnoliopsida"
+      },
+      "Order": {
+        "Arabic": "ورديات",
+        "English": "Rosales"
+      },
+      "Family": {
+        "Arabic": "وردية",
+        "English": "Rosaceae"
+      },
+      "Genus": {
+        "Arabic": "ورد",
+        "English": "Rosa"
+      },
+      "Species": {
+        "Arabic": "ورد بري",
+        "English": "Rosa canina",
+        "LocalNames": {
+          "Arabic": [
+            "ورد بري",
+            "ورد شائك"
+          ],
+          "English": [
+            "Dog Rose",
+            "Wild Rose"
+          ],
+          "Regional": [
+            {
+              "Name": "rose",
+              "Region": "فرنسا",
+              "Language": "French"
+            },
+            {
+              "Name": "роза",
+              "Region": "روسيا",
+              "Language": "Russian"
+            }
+          ]
+        },
+        "Description": {
+          "Arabic": "نبات معمر من الفصيلة الوردية، ينمو في المناطق المعتدلة",
+          "English": "A perennial plant of the rose family, growing in temperate regions"
+        },
+        "Habitat": {
+          "Arabic": "المناطق المعتدلة في أوراسيا وأمريكا الشمالية",
+          "English": "Temperate regions across Eurasia and North America"
+        },
+        "References": [
+          {
+            "Title": "موسوعة النباتات",
+            "URL": "https://en.wikipedia.org/wiki/Rosa_canina",
+            "Type": "reference"
+          },
+          {
+            "Title": "صور الورد البري",
+            "URL": "https://www.google.com/search?q=Rosa+canina&tbm=isch",
+            "Type": "image"
+          }
+        ],
+        "Media": {
+          "Images": [
+            {
+              "URL": "https://example.com/rose1.jpg",
+              "Caption": {
+                "Arabic": "ورد بري",
+                "English": "Wild Rose"
+              },
+              "Credit": "National Geographic",
+              "License": "CC BY-SA 4.0"
+            }
+          ],
+          "Videos": [
+            {
+              "URL": "https://example.com/rose-video.mp4",
+              "Caption": {
+                "Arabic": "ورد يزهر",
+                "English": "Rose blooming"
+              },
+              "Credit": "Wildlife Documentary",
+              "Duration": "00:02:30"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "Kingdom": {
+        "Arabic": "فطريات",
+        "English": "Fungi"
+      },
+      "Phylum": {
+        "Arabic": "فطريات بازيدية",
+        "English": "Basidiomycota"
+      },
+      "Class": {
+        "Arabic": "فطريات غاريقونية",
+        "English": "Agaricomycetes"
+      },
+      "Order": {
+        "Arabic": "غاريقونيات",
+        "English": "Agaricales"
+      },
+      "Family": {
+        "Arabic": "امانيتية",
+        "English": "Amanitaceae"
+      },
+      "Genus": {
+        "Arabic": "عرف الغراب",
+        "English": "Amanita"
+      },
+      "Species": {
+        "Arabic": "عرف الغراب الأحمر",
+        "English": "Amanita muscaria",
+        "LocalNames": {
+          "Arabic": [
+            "عرف الغراب الأحمر",
+            "فطر السحر"
+          ],
+          "English": [
+            "Fly Agaric",
+            "Magic Mushroom"
+          ],
+          "Regional": [
+            {
+              "Name": "pilz",
+              "Region": "ألمانيا",
+              "Language": "German"
+            },
+            {
+              "Name": "гриб",
+              "Region": "روسيا",
+              "Language": "Russian"
+            }
+          ]
+        },
+        "Description": {
+          "Arabic": "فطر سام من الفصيلة الأمانيتية، ينمو في الغابات المعتدلة",
+          "English": "A poisonous fungus of the Amanitaceae family, growing in temperate forests"
+        },
+        "Habitat": {
+          "Arabic": "الغابات المعتدلة في أوراسيا وأمريكا الشمالية",
+          "English": "Temperate forests across Eurasia and North America"
+        },
+        "References": [
+          {
+            "Title": "موسوعة الفطريات",
+            "URL": "https://en.wikipedia.org/wiki/Amanita_muscaria",
+            "Type": "reference"
+          },
+          {
+            "Title": "صور عرف الغراب الأحمر",
+            "URL": "https://www.google.com/search?q=Amanita+muscaria&tbm=isch",
+            "Type": "image"
+          }
+        ],
+        "Media": {
+          "Images": [
+            {
+              "URL": "https://example.com/mushroom1.jpg",
+              "Caption": {
+                "Arabic": "عرف الغراب الأحمر",
+                "English": "Fly Agaric"
+              },
+              "Credit": "National Geographic",
+              "License": "CC BY-SA 4.0"
+            }
+          ],
+          "Videos": [
+            {
+              "URL": "https://example.com/mushroom-video.mp4",
+              "Caption": {
+                "Arabic": "عرف الغراب الأحمر ينمو",
+                "English": "Fly Agaric growing"
+              },
+              "Credit": "Wildlife Documentary",
+              "Duration": "00:02:30"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "Kingdom": {
+        "Arabic": "أوليات",
+        "English": "Protista"
+      },
+      "Phylum": {
+        "Arabic": "أوليات حيوانية",
+        "English": "Protozoa"
+      },
+      "Class": {
+        "Arabic": "هدبيات",
+        "English": "Ciliophora"
+      },
+      "Order": {
+        "Arabic": "بسيطات",
+        "English": "Haplosporida"
+      },
+      "Family": {
+        "Arabic": "بسيطية",
+        "English": "Haplosporidae"
+      },
+      "Genus": {
+        "Arabic": "براميسيوم",
+        "English": "Paramecium"
+      },
+      "Species": {
+        "Arabic": "براميسيوم ذيلي",
+        "English": "Paramecium caudatum",
+        "LocalNames": {
+          "Arabic": [
+            "براميسيوم ذيلي",
+            "براميسيوم شائك"
+          ],
+          "English": [
+            "Paramecium caudatum",
+            "Spiny Paramecium"
+          ],
+          "Regional": [
+            {
+              "Name": "paramecium",
+              "Region": "فرنسا",
+              "Language": "French"
+            },
+            {
+              "Name": "парамеций",
+              "Region": "روسيا",
+              "Language": "Russian"
+            }
+          ]
+        },
+        "Description": {
+          "Arabic": "حيوان أولي من الفصيلة البسيطية، ينمو في المياه العذبة",
+          "English": "A protozoan of the Haplosporidae family, growing in freshwater environments"
+        },
+        "Habitat": {
+          "Arabic": "المياه العذبة في جميع أنحاء العالم",
+          "English": "Freshwater environments worldwide"
+        },
+        "References": [
+          {
+            "Title": "موسوعة الأوليات",
+            "URL": "https://en.wikipedia.org/wiki/Paramecium_caudatum",
+            "Type": "reference"
+          },
+          {
+            "Title": "صور براميسيوم ذيلي",
+            "URL": "https://www.google.com/search?q=Paramecium+caudatum&tbm=isch",
+            "Type": "image"
+          }
+        ],
+        "Media": {
+          "Images": [
+            {
+              "URL": "https://example.com/paramecium1.jpg",
+              "Caption": {
+                "Arabic": "براميسيوم ذيلي",
+                "English": "Paramecium caudatum"
+              },
+              "Credit": "National Geographic",
+              "License": "CC BY-SA 4.0"
+            }
+          ],
+          "Videos": [
+            {
+              "URL": "https://example.com/paramecium-video.mp4",
+              "Caption": {
+                "Arabic": "براميسيوم ذيلي يسبح",
+                "English": "Paramecium caudatum swimming"
+              },
+              "Credit": "Wildlife Documentary",
+              "Duration": "00:02:30"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "Kingdom": {
+        "Arabic": "بكتيريا",
+        "English": "Bacteria"
+      },
+      "Phylum": {
+        "Arabic": "بروتيوبكتيريا",
+        "English": "Proteobacteria"
+      },
+      "Class": {
+        "Arabic": "جاما بروتيوبكتيريا",
+        "English": "Gammaproteobacteria"
+      },
+      "Order": {
+        "Arabic": "معوية",
+        "English": "Enterobacterales"
+      },
+      "Family": {
+        "Arabic": "معوية",
+        "English": "Enterobacteriaceae"
+      },
+      "Genus": {
+        "Arabic": "إشريكية",
+        "English": "Escherichia"
+      },
+      "Species": {
+        "Arabic": "إشريكية قولونية",
+        "English": "Escherichia coli",
+        "LocalNames": {
+          "Arabic": [
+            "إشريكية قولونية",
+            "إشريكية معوية"
+          ],
+          "English": [
+            "Escherichia coli",
+            "E. coli"
+          ],
+          "Regional": [
+            {
+              "Name": "e. coli",
+              "Region": "فرنسا",
+              "Language": "French"
+            },
+            {
+              "Name": "эшерихия",
+              "Region": "روسيا",
+              "Language": "Russian"
+            }
+          ]
+        },
+        "Description": {
+          "Arabic": "بكتيريا معوية من الفصيلة المعوية، توجد في أمعاء الإنسان والحيوانات",
+          "English": "A gut bacterium of the Enterobacteriaceae family, found in the intestines of humans and animals"
+        },
+        "Habitat": {
+          "Arabic": "أمعاء الإنسان والحيوانات",
+          "English": "Human and animal intestines"
+        },
+        "References": [
+          {
+            "Title": "موسوعة البكتيريا",
+            "URL": "https://en.wikipedia.org/wiki/Escherichia_coli",
+            "Type": "reference"
+          },
+          {
+            "Title": "صور إشريكية قولونية",
+            "URL": "https://www.google.com/search?q=Escherichia+coli&tbm=isch",
+            "Type": "image"
+          }
+        ],
+        "Media": {
+          "Images": [
+            {
+              "URL": "https://example.com/e-coli1.jpg",
+              "Caption": {
+                "Arabic": "إشريكية قولونية",
+                "English": "Escherichia coli"
+              },
+              "Credit": "National Geographic",
+              "License": "CC BY-SA 4.0"
+            }
+          ],
+          "Videos": [
+            {
+              "URL": "https://example.com/e-coli-video.mp4",
+              "Caption": {
+                "Arabic": "إشريكية قولونية تتكاثر",
+                "English": "Escherichia coli reproducing"
+              },
+              "Credit": "Wildlife Documentary",
+              "Duration": "00:02:30"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "Kingdom": {
+        "Arabic": "حيوانات",
+        "English": "Animalia"
+      },
+      "Phylum": {
+        "Arabic": "حبليات",
+        "English": "Chordata"
+      },
+      "Class": {
+        "Arabic": "ثدييات",
+        "English": "Mammalia"
+      },
+      "Order": {
+        "Arabic": "لواحم",
+        "English": "Carnivora"
+      },
+      "Family": {
+        "Arabic": "قططيات",
+        "English": "Felidae"
+      },
+      "Genus": {
+        "Arabic": "نمر",
+        "English": "Panthera"
+      },
+      "Species": {
+        "Arabic": "أسد",
+        "English": "Panthera leo",
+        "LocalNames": {
+          "Arabic": [
+            "أسد",
+            "الأسد الملكي"
+          ],
+          "English": [
+            "Lion",
+            "King of the Jungle"
+          ],
+          "Regional": [
+            {
+              "Name": "lion",
+              "Region": "فرنسا",
+              "Language": "French"
+            },
+            {
+              "Name": "лев",
+              "Region": "روسيا",
+              "Language": "Russian"
+            }
+          ]
+        },
+        "Description": {
+          "Arabic": "حيوان ثديي مفترس من الفصيلة القططية، يعيش في السهول والغابات المفتوحة",
+          "English": "A large predatory mammal of the Felidae family, living in open plains and forests"
+        },
+        "Habitat": {
+          "Arabic": "السهول والغابات المفتوحة في أفريقيا وآسيا",
+          "English": "Open plains and forests across Africa and Asia"
+        },
+        "References": [
+          {
+            "Title": "موسوعة الحيوانات",
+            "URL": "https://en.wikipedia.org/wiki/Panthera_leo",
+            "Type": "reference"
+          },
+          {
+            "Title": "صور الأسد",
+            "URL": "https://www.google.com/search?q=Panthera+leo&tbm=isch",
+            "Type": "image"
+          }
+        ],
+        "Media": {
+          "Images": [
+            {
+              "URL": "https://example.com/lion1.jpg",
+              "Caption": {
+                "Arabic": "أسد",
+                "English": "Lion"
+              },
+              "Credit": "National Geographic",
+              "License": "CC BY-SA 4.0"
+            }
+          ],
+          "Videos": [
+            {
+              "URL": "https://example.com/lion-video.mp4",
+              "Caption": {
+                "Arabic": "أسد يصطاد فريسته",
+                "English": "Lion hunting its prey"
+              },
+              "Credit": "Wildlife Documentary",
+              "Duration": "00:02:30"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "Kingdom": {
+        "Arabic": "حيوانات",
+        "English": "Animalia"
+      },
+      "Phylum": {
+        "Arabic": "حبليات",
+        "English": "Chordata"
+      },
+      "Class": {
+        "Arabic": "ثدييات",
+        "English": "Mammalia"
+      },
+      "Order": {
+        "Arabic": "لواحم",
+        "English": "Carnivora"
+      },
+      "Family": {
+        "Arabic": "قططيات",
+        "English": "Felidae"
+      },
+      "Genus": {
+        "Arabic": "نمر",
+        "English": "Panthera"
+      },
+      "Species": {
+        "Arabic": "النمر",
+        "English": "Panthera tigris",
+        "LocalNames": {
+          "Arabic": [
+            "النمر",
+            "النمر البنغالي"
+          ],
+          "English": [
+            "Tiger",
+            "Bengal Tiger"
+          ],
+          "Regional": [
+            {
+              "Name": "tigre",
+              "Region": "فرنسا",
+              "Language": "French"
+            },
+            {
+              "Name": "тигр",
+              "Region": "روسيا",
+              "Language": "Russian"
+            }
+          ]
+        },
+        "Description": {
+          "Arabic": "أكبر السنوريات البرية الحية وأحد أشهر الحيوانات المفترسة",
+          "English": "The largest living cat species and one of the most iconic predators"
+        },
+        "Habitat": {
+          "Arabic": "الغابات الاستوائية والمناطق العشبية",
+          "English": "Tropical forests and grasslands"
+        },
+        "References": [
+          {
+            "Title": "موسوعة النمور",
+            "URL": "https://en.wikipedia.org/wiki/Tiger",
+            "Type": "reference"
+          },
+          {
+            "Title": "صور النمر",
+            "URL": "https://www.google.com/search?q=Panthera+tigris&tbm=isch",
+            "Type": "image"
+          }
+        ],
+        "Media": {
+          "Images": [
+            {
+              "URL": "https://example.com/tiger1.jpg",
+              "Caption": {
+                "Arabic": "نمر",
+                "English": "Tiger"
+              },
+              "Credit": "National Geographic",
+              "License": "CC BY-SA 4.0"
+            }
+          ],
+          "Videos": [
+            {
+              "URL": "https://example.com/tiger-video.mp4",
+              "Caption": {
+                "Arabic": "نمر يصطاد فريسته",
+                "English": "Tiger hunting its prey"
+              },
+              "Credit": "Wildlife Documentary",
+              "Duration": "00:02:30"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "Kingdom": {
+        "Arabic": "حيوانات",
+        "English": "Animalia"
+      },
+      "Phylum": {
+        "Arabic": "حبليات",
+        "English": "Chordata"
+      },
+      "Class": {
+        "Arabic": "ثدييات",
+        "English": "Mammalia"
+      },
+      "Order": {
+        "Arabic": "لواحم",
+        "English": "Carnivora"
+      },
+      "Family": {
+        "Arabic": "قططيات",
+        "English": "Felidae"
+      },
+      "Genus": {
+        "Arabic": "نمر",
+        "English": "Panthera"
+      },
+      "Species": {
+        "Arabic": "الفهد",
+        "English": "Panthera pardus",
+        "LocalNames": {
+          "Arabic": [
+            "الفهد",
+            "النمر الأوراسي"
+          ],
+          "English": [
+            "Leopard",
+            "Eurasian Leopard"
+          ],
+          "Regional": [
+            {
+              "Name": "léopard",
+              "Region": "فرنسا",
+              "Language": "French"
+            },
+            {
+              "Name": "леопард",
+              "Region": "روسيا",
+              "Language": "Russian"
+            }
+          ]
+        },
+        "Description": {
+          "Arabic": "قط كبير معروف ببقعه السوداء على فرائه الأصفر، ومهاراته في التسلق",
+          "English": "Large cat known for its black spots on yellow fur and climbing abilities"
+        },
+        "Habitat": {
+          "Arabic": "الغابات والسافانا في أفريقيا وآسيا",
+          "English": "Forests and savannas across Africa and Asia"
+        },
+        "References": [
+          {
+            "Title": "موسوعة الفهود",
+            "URL": "https://en.wikipedia.org/wiki/Leopard",
+            "Type": "reference"
+          },
+          {
+            "Title": "صور الفهد",
+            "URL": "https://www.google.com/search?q=Panthera+pardus&tbm=isch",
+            "Type": "image"
+          }
+        ],
+        "Media": {
+          "Images": [
+            {
+              "URL": "https://example.com/leopard1.jpg",
+              "Caption": {
+                "Arabic": "فهد",
+                "English": "Leopard"
+              },
+              "Credit": "National Geographic",
+              "License": "CC BY-SA 4.0"
+            }
+          ],
+          "Videos": [
+            {
+              "URL": "https://example.com/leopard-video.mp4",
+              "Caption": {
+                "Arabic": "فهد يصطاد فريسته",
+                "English": "Leopard hunting its prey"
+              },
+              "Credit": "Wildlife Documentary",
+              "Duration": "00:02:30"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "Kingdom": {
+        "Arabic": "حيوانات",
+        "English": "Animalia"
+      },
+      "Phylum": {
+        "Arabic": "حبليات",
+        "English": "Chordata"
+      },
+      "Class": {
+        "Arabic": "ثدييات",
+        "English": "Mammalia"
+      },
+      "Order": {
+        "Arabic": "لواحم",
+        "English": "Carnivora"
+      },
+      "Family": {
+        "Arabic": "قططيات",
+        "English": "Felidae"
+      },
+      "Genus": {
+        "Arabic": "نمر",
+        "English": "Panthera"
+      },
+      "Species": {
+        "Arabic": "الجاغوار",
+        "English": "Panthera onca",
+        "LocalNames": {
+          "Arabic": [
+            "الجاغوار",
+            "النمر الأمريكي"
+          ],
+          "English": [
+            "Jaguar",
+            "American Panther"
+          ],
+          "Regional": [
+            {
+              "Name": "jaguar",
+              "Region": "فرنسا",
+              "Language": "French"
+            },
+            {
+              "Name": "яггуар",
+              "Region": "روسيا",
+              "Language": "Russian"
+            }
+          ]
+        },
+        "Description": {
+          "Arabic": "أكبر القطط البرية في الأمريكتين، معروف بقوته وبقعه المميزة",
+          "English": "The largest wild cat in the Americas, known for its strength and distinctive spots"
+        },
+        "Habitat": {
+          "Arabic": "الغابات المطيرة والمستنقعات في أمريكا الوسطى والجنوبية",
+          "English": "Rainforests and wetlands in Central and South America"
+        },
+        "References": [
+          {
+            "Title": "موسوعة الجاغوار",
+            "URL": "https://en.wikipedia.org/wiki/Jaguar",
+            "Type": "reference"
+          },
+          {
+            "Title": "صور الجاغوار",
+            "URL": "https://www.google.com/search?q=Panthera+onca&tbm=isch",
+            "Type": "image"
+          }
+        ],
+        "Media": {
+          "Images": [
+            {
+              "URL": "https://example.com/jaguar1.jpg",
+              "Caption": {
+                "Arabic": "جاغوار",
+                "English": "Jaguar"
+              },
+              "Credit": "National Geographic",
+              "License": "CC BY-SA 4.0"
+            }
+          ],
+          "Videos": [
+            {
+              "URL": "https://example.com/jaguar-video.mp4",
+              "Caption": {
+                "Arabic": "جاغوار يصطاد فريسته",
+                "English": "Jaguar hunting its prey"
+              },
+              "Credit": "Wildlife Documentary",
+              "Duration": "00:02:30"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
